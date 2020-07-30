@@ -6,7 +6,7 @@
  * @author <marcus@silverstripe.com.au>
  * @license BSD License http://www.silverstripe.org/bsd-license
  */
-class ThemeHelper extends Object {
+class ThemeHelper extends SS_Object {
 	public function beforeInit() {
 
 	}
